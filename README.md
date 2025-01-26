@@ -22,26 +22,17 @@ Technologies used
 Languages: HTML,CSS,JavaScript
 Framwork used: website.
 
-Screenshot
-"C:\Users\Gauri kutty\Pictures\Screenshots\Screenshot 2025-01-26 101222.png" Landing Page. It includes the logo of the website.By clicking the logo, it will redirect into the home page
-
-"C:\Users\Gauri kutty\Pictures\Screenshots\Screenshot 2025-01-26 101301.png" 
-
-
 # Screenshots (Add at least 3)
-![Screenshot1](/screen1.jpg)
-*Add caption explaining what this shows*
+![Screenshot1](/screen1.png)
+Landing page
 
-![Screenshot2](/screen2.jpg)
-*Add caption explaining what this shows*
-
-![Screenshot3](/screen3.jpg)
-*Add caption explaining what this shows*
-
-
+![Screenshot2](/screen2.png)
+Home page
+![Screenshot3](/screen3.png)
+Items included in website
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/drive/folders/1qiMDtjVKi9fYVlsZbZBjKGOS_WiOnKHY]
 *Explain what the video demonstrates*
 
 ## Team Contributions
