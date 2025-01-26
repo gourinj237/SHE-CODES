@@ -28,3 +28,28 @@ Screenshot
 "C:\Users\Gauri kutty\Pictures\Screenshots\Screenshot 2025-01-26 101301.png" 
 
 
+# Screenshots (Add at least 3)
+![Screenshot1](/screen1.jpg)
+*Add caption explaining what this shows*
+
+![Screenshot2](/screen2.jpg)
+*Add caption explaining what this shows*
+
+![Screenshot3](/screen3.jpg)
+*Add caption explaining what this shows*
+
+
+### Project Demo
+# Video
+[Add your demo video link here]
+*Explain what the video demonstrates*
+
+## Team Contributions
+- [Name 1]: [Specific contributions]
+- [Name 2]: [Specific contributions]
+- [Name 3]: [Specific contributions]
+
+---
+Made with ❤️ at TinkerHub
+
+
