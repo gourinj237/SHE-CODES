@@ -22,4 +22,9 @@ Technologies used
 Languages: HTML,CSS,JavaScript
 Framwork used: website.
 
+Screenshot
+"C:\Users\Gauri kutty\Pictures\Screenshots\Screenshot 2025-01-26 101222.png" Landing Page. It includes the logo of the website.By clicking the logo, it will redirect into the home page
+
+"C:\Users\Gauri kutty\Pictures\Screenshots\Screenshot 2025-01-26 101301.png" 
+
 
