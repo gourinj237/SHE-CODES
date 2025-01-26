@@ -1,0 +1,35 @@
+body{
+    color: #efe8e8;
+    font-size: 1.125rem;
+    font-family:system-ui;
+    line-height:1.5;
+}
+
+.wrapper{
+    width:moin(900px,100%,-3rem);
+    margin-inline: auto;
+}
+
+table{
+border-collapse: collapse;
+background: #323232;
+padding: 1rem;
+}
+
+th,
+td{
+    background: white;
+}
+
+caption,
+th,
+td{
+    padding: 1rem;
+}
+
+caption,
+th{
+
+    text-align: left;
+}
+
